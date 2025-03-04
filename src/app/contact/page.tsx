@@ -1,3 +1,4 @@
+"use client"
 import { Meteors } from '@/components/ui/meteors'
 
 import React from 'react'
@@ -9,7 +10,7 @@ const page = () => {
     <div className='  md:h-[40rem] bg-slate-900 flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-0 '>     
         <div className=' mt-28'>
             <h2 className=" text-lg md:text-7xl text-center font-sans font-semibold mb-8  text-white">Contact Us</h2>
-            <p className=' mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto'>Contact us is a phrase used to invite people to get in touch with a business or organization. It is often used on a website as a page that allows visitors to contact the website's owners.</p>
+            <p className=' mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto'>Contact us is a phrase used to invite people to get in touch with a business or organization. It is often used on a website as a page that allows visitors to contact the owners.</p>
         </div>
         <form action="">
             <div className=' flex flex-col'>
