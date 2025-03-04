@@ -1,12 +1,11 @@
 import HeroSection from "@/components/HeroSection";
 import Testimonial from "@/components/Testimonial";
 import FeaturedCourses from "@/components/FeaturedCourses";
-
 import WhyChooseUs from "@/components/WhyChooseUs";
-import { main } from "motion/react-client";
 import UpcomingWebnar from "@/components/UpcomingWebnar";
 import Instratur from "@/components/Instratur";
 import Footer from "@/components/Footer";
+
 
 
 export default function Home() {

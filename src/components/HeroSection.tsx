@@ -19,10 +19,10 @@ const HeroSection = () => {
               text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400'
             >Master the art of music</h1>
             <p className=' mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto'
-                >Dive into our comprehensive music course and 
+                >{`Dive into our comprehensive music course and 
                 transform your musical journey today. Whether 
                 you're a beginer or looking to refine your skill, join 
-                us to unlock your true potential. 
+                us to unlock your true potential. `}
             </p>
             <div className=' mt-14'>
                <Link href={'/courses'}>
