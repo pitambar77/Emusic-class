@@ -1,0 +1,94 @@
+{
+    "courses" :[
+        {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+     },
+     {
+        "id": 2,
+        "title": "Piano Fundamentals",
+        "slug": "Piano-fundamentals",
+        "description": "Learn the basics of playing Piano with our comprehensive beginner's course.",
+        "price": 199.99,
+        "instructor": "John Doe",
+        "isFeatured": false,
+        "image": "/courses/Piano.jpg"
+     },
+     {
+        "id": 3,
+        "title": "Harmanium Fundamentals",
+        "slug": "Harmanium-fundamentals",
+        "description": "Learn the basics of playing Harmanium with our comprehensive beginner's course.",
+        "price": 979.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/Harmanium.jpg"
+     },
+     {
+        "id": 4,
+        "title": "Dhol Fundamentals",
+        "slug": "Dhol-fundamentals",
+        "description": "Learn the basics of playing Dhol with our comprehensive beginner's course.",
+        "price": 9669.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/Dhol.jpg"
+     },
+     {
+        "id": 5,
+        "title": "Casio Fundamentals",
+        "slug": "Casio-fundamentals",
+        "description": "Learn the basics of playing Casio with our comprehensive beginner's course.",
+        "price": 998.99,
+        "instructor": "John Doe",
+        "isFeatured": false,
+        "image": "/courses/Casio.jpg"
+     },
+     {
+        "id": 6,
+        "title": "Tabla Fundamentals",
+        "slug": "Tabla-fundamentals",
+        "description": "Learn the basics of playing Tabla with our comprehensive beginner's course.",
+        "price": 599.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/Tabla.jpg"
+     },
+     {
+        "id": 7,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 299.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+     },
+     {
+        "id": 8,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 959.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+     },
+     {
+        "id": 9,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 939.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+     }
+    ]
+}
